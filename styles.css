@@ -16,7 +16,7 @@ body {
     border-radius: 10px;
     width: 80%;
     position: relative;
-     display: flex;
+    display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh; 
@@ -27,7 +27,7 @@ body {
     padding: 20px;
     border-radius: 50%;
     font-size: 18px;
-    position: absolute; 
+    position: relative; 
   }
   
   .pastry img {
